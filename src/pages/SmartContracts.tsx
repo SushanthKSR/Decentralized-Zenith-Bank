@@ -179,7 +179,7 @@ contract SimpleStorage {
               <h2 className="text-xl font-semibold">
                 <button className="btn btn-accent flex-1">
                   <PlayCircle size={16} className="mr-2" />
-                  <a href="https://example.com">
+                  <a href="https://major-smart-contracts.vercel.app/">
                     {" "}
                     For Business Smart Contracts
                   </a>
