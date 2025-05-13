@@ -20,7 +20,7 @@ export const Dashboard: React.FC = () => {
       title: "Send",
       icon: <ArrowUpRight size={20} className="text-error-500" />,
       link: "/transfer",
-      color: "https://zenith-defibank.vercel.app/transfer",
+      color: "from-error-500/20 to-error-700/20",
     },
     {
       title: "Receive",
